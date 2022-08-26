@@ -1,0 +1,37 @@
+body {
+  background-color: rgb(60, 55, 80);
+}
+
+.container {
+  width: 80%;
+  margin: auto;
+  text-align: center;
+}
+
+h1 {
+  color: aliceblue;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+h3 {
+  color: white;
+  font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  font-size: 2em;
+}
+
+#boton1 {
+  border-color: beige;
+  border-radius: 6px;
+  color: white;
+  font-size: 2em;
+  width: 20%;
+  background-color: rgb(49, 34, 182);
+}
+
+.estudiante {
+  margin-top: 7em;
+}
+
+.selector {
+  color: white;
+}
